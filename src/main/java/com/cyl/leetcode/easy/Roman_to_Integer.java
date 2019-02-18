@@ -1,4 +1,4 @@
-package com.cyl.leetcode.medium;
+package com.cyl.leetcode.easy;
 
 import java.util.HashMap;
 import java.util.Map;

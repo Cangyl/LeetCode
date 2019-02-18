@@ -1,4 +1,4 @@
-package com.cyl.leetcode.medium;
+package com.cyl.leetcode.easy;
 
 /**
  * Created by cang on 19-1-29.
