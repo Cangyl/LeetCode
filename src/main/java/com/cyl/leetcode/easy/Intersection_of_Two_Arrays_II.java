@@ -7,7 +7,6 @@ import java.util.*;
  */
 public class Intersection_of_Two_Arrays_II {
   public static void main(String args[]){
-    int
     System.out.println("Hello");
   }
   public int[] intersect(int[] nums1, int[] nums2) {
