@@ -14,6 +14,7 @@ public class Construct_Quad_Tree {
   }
 
   private Node build(int[][] grid, int i, int j, int len) {
+
     if (len == 0) return null;
 
     if (len == 1) {
